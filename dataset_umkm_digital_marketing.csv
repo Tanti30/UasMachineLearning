@@ -1,0 +1,301 @@
+ID_UMKM,Nama_UMKM,Sektor,Kota,Platform_Marketing,Jumlah_Follower,Engagement_Rate (%),Biaya_Iklan (IDR),Kenaikan_Penjualan (%)
+UMKM-001,Batik Nusa #1,Kuliner,Yogyakarta,Shopee,2786,7.63,1229295,37.48
+UMKM-002,Kopi Mantap #2,Kuliner,Bandung,Shopee,8779,6.42,2167971,44.38
+UMKM-003,Sepatu Kulit Asli #3,Makanan Ringan,Medan,"WhatsApp, GrabFood",606,7.83,1839319,43.4
+UMKM-004,Nasi Bakar Maknyus #4,Kerajinan,Surabaya,TikTok,2174,1.83,1311315,24.74
+UMKM-005,Nasi Bakar Maknyus #5,Aksesoris,Yogyakarta,Gojek,9285,2.12,3675376,9.33
+UMKM-006,Daster Cantik #6,Kosmetik,Palembang,"Shopee, TikTok",1639,1.41,2411749,47.52
+UMKM-007,Batik Nusa #7,Fashion,Bandung,"WhatsApp, Shopee",6477,2.46,3480226,16.52
+UMKM-008,Daster Cantik #8,Kosmetik,Bandung,"Tokopedia, WhatsApp, TikTok",4510,2.47,3683102,19.85
+UMKM-009,Sepatu Kulit Asli #9,Fashion,Denpasar,Shopee,1025,8.25,3865214,19.73
+UMKM-010,Tahu Crispy Jaya #10,Aksesoris,Denpasar,Gojek,6982,8.96,4349128,12.86
+UMKM-011,Ayam GeprekX #11,Fashion,Bogor,"WhatsApp, TikTok, Gojek",7519,9.08,3850414,24.91
+UMKM-012,Ayam GeprekX #12,Aksesoris,Semarang,Instagram,2296,2.38,1842026,48.56
+UMKM-013,Sambal Lumer #13,Aksesoris,Bandung,"GrabFood, WhatsApp",8168,5.76,596309,42.42
+UMKM-014,Batik Nusa #14,Kosmetik,Bogor,"TikTok, Instagram",5308,4.91,4306110,5.18
+UMKM-015,Daster Cantik #15,Aksesoris,Surabaya,"Facebook, GrabFood, TikTok",5389,8.58,4758584,38.49
+UMKM-016,Ayam GeprekX #16,Kerajinan,Surabaya,"Instagram, WhatsApp, Tokopedia",8505,1.18,3544903,53.33
+UMKM-017,Daster Cantik #17,Fashion,Jakarta,Facebook,1903,7.59,1080596,58.79
+UMKM-018,Sepatu Kulit Asli #18,Fashion,Surabaya,"Gojek, WhatsApp, Facebook",4842,5.75,4049538,58.04
+UMKM-019,Sepatu Kulit Asli #19,Kosmetik,Medan,"WhatsApp, Shopee, TikTok",6618,4.94,4841740,29.83
+UMKM-020,Tahu Crispy Jaya #20,Fashion,Bandung,"Instagram, WhatsApp",9575,3.07,2347317,5.4
+UMKM-021,Kopi Mantap #21,Fashion,Bandung,TikTok,1660,5.63,2836036,41.79
+UMKM-022,Tahu Crispy Jaya #22,Aksesoris,Surabaya,"Gojek, Facebook, Shopee",7169,2.71,1313114,41.24
+UMKM-023,Nasi Bakar Maknyus #23,Makanan Ringan,Makassar,"Instagram, TikTok",2112,1.55,3346276,49.03
+UMKM-024,Batik Nusa #24,Fashion,Medan,Gojek,2796,4.8,2836606,30.44
+UMKM-025,Batik Nusa #25,Makanan Ringan,Bogor,Instagram,9356,8.52,1282344,55.95
+UMKM-026,Tahu Crispy Jaya #26,Fashion,Makassar,"Gojek, Facebook",7070,9.12,1881076,25.84
+UMKM-027,Sambal Lumer #27,Kerajinan,Semarang,"GrabFood, TikTok",9605,6.96,4582495,13.51
+UMKM-028,Daster Cantik #28,Fashion,Jakarta,"Instagram, TikTok, Tokopedia",1436,1.45,4499591,32.66
+UMKM-029,Sepatu Kulit Asli #29,Fashion,Jakarta,"Facebook, GrabFood, Gojek",1622,6.36,2473033,27.21
+UMKM-030,Tas Rajut Handmade #30,Fashion,Palembang,"Instagram, WhatsApp, Gojek",7368,6.92,4885419,22.4
+UMKM-031,Daster Cantik #31,Fashion,Denpasar,WhatsApp,6984,2.18,3016557,30.15
+UMKM-032,Batik Nusa #32,Kuliner,Semarang,"Facebook, Instagram, WhatsApp",3992,5.55,1611126,56.33
+UMKM-033,Batik Nusa #33,Fashion,Denpasar,"Tokopedia, Shopee",9400,7.33,4937076,5.43
+UMKM-034,Sepatu Kulit Asli #34,Kerajinan,Bandung,WhatsApp,2391,9.01,1803991,19.98
+UMKM-035,Tas Rajut Handmade #35,Fashion,Denpasar,WhatsApp,8780,5.4,926132,10.08
+UMKM-036,Sambal Lumer #36,Kerajinan,Jakarta,TikTok,2643,6.73,2697440,13.89
+UMKM-037,Kue Kering Mawar #37,Aksesoris,Makassar,"Instagram, Gojek, GrabFood",2942,5.91,3597208,37.04
+UMKM-038,Ayam GeprekX #38,Makanan Ringan,Surabaya,WhatsApp,6474,9.09,834662,54.44
+UMKM-039,Tahu Crispy Jaya #39,Kosmetik,Medan,"Facebook, Tokopedia, WhatsApp",7158,9.76,1796487,55.92
+UMKM-040,Tahu Crispy Jaya #40,Fashion,Surabaya,"Instagram, Facebook",5942,8.04,3953700,49.12
+UMKM-041,Tahu Crispy Jaya #41,Kerajinan,Surabaya,"Facebook, Shopee, Instagram",8211,3.0,4361303,24.23
+UMKM-042,Tahu Crispy Jaya #42,Fashion,Jakarta,"Shopee, Gojek, Tokopedia",5064,8.78,2841470,24.31
+UMKM-043,Sepatu Kulit Asli #43,Makanan Ringan,Bogor,"Instagram, Gojek",4779,2.61,2726893,7.1
+UMKM-044,Tas Rajut Handmade #44,Makanan Ringan,Denpasar,"TikTok, Shopee, WhatsApp",8879,2.04,2094496,19.01
+UMKM-045,Sambal Lumer #45,Kuliner,Bogor,"Shopee, Tokopedia, Gojek",1646,9.54,3269918,39.27
+UMKM-046,Batik Nusa #46,Kosmetik,Yogyakarta,"WhatsApp, TikTok, Shopee",5844,4.62,2980135,35.49
+UMKM-047,Tahu Crispy Jaya #47,Makanan Ringan,Makassar,"Tokopedia, WhatsApp, GrabFood",5430,4.65,503405,21.71
+UMKM-048,Tahu Crispy Jaya #48,Makanan Ringan,Palembang,"TikTok, Shopee, GrabFood",7744,7.08,4788038,31.03
+UMKM-049,Ayam GeprekX #49,Kosmetik,Bandung,"TikTok, Instagram",4348,7.06,2384422,49.36
+UMKM-050,Ayam GeprekX #50,Kuliner,Jakarta,Gojek,1693,5.1,2131040,44.51
+UMKM-051,Sambal Lumer #51,Makanan Ringan,Makassar,Tokopedia,590,9.03,1394119,47.81
+UMKM-052,Tahu Crispy Jaya #52,Fashion,Bogor,"Instagram, WhatsApp",4582,9.26,1518029,30.11
+UMKM-053,Kue Kering Mawar #53,Kosmetik,Bogor,"TikTok, GrabFood, Shopee",8770,4.84,4240594,54.35
+UMKM-054,Kue Kering Mawar #54,Makanan Ringan,Yogyakarta,WhatsApp,9040,5.36,2506939,20.1
+UMKM-055,Batik Nusa #55,Kosmetik,Yogyakarta,WhatsApp,6002,3.88,1175934,12.61
+UMKM-056,Tahu Crispy Jaya #56,Makanan Ringan,Surabaya,"Shopee, Instagram, Gojek",7178,3.98,4408456,27.87
+UMKM-057,Tahu Crispy Jaya #57,Makanan Ringan,Makassar,"Instagram, GrabFood, WhatsApp",6732,5.29,3450766,21.42
+UMKM-058,Sambal Lumer #58,Makanan Ringan,Bogor,"Shopee, Gojek, Facebook",4971,4.92,743477,26.39
+UMKM-059,Sambal Lumer #59,Kosmetik,Surabaya,"Tokopedia, WhatsApp",9251,1.24,3805281,37.55
+UMKM-060,Kopi Mantap #60,Kuliner,Makassar,Gojek,3477,1.45,3680153,23.0
+UMKM-061,Kue Kering Mawar #61,Kerajinan,Denpasar,"WhatsApp, GrabFood",7406,3.27,1187079,30.87
+UMKM-062,Sepatu Kulit Asli #62,Kuliner,Denpasar,Facebook,1159,7.79,2574362,15.96
+UMKM-063,Kopi Mantap #63,Aksesoris,Surabaya,Tokopedia,8258,7.03,2328419,30.58
+UMKM-064,Daster Cantik #64,Kerajinan,Surabaya,"Facebook, GrabFood, Gojek",5596,1.97,715406,56.09
+UMKM-065,Tas Rajut Handmade #65,Kosmetik,Makassar,"Shopee, Instagram",4478,1.92,3029858,51.77
+UMKM-066,Tas Rajut Handmade #66,Kuliner,Palembang,TikTok,9228,4.86,3608573,8.79
+UMKM-067,Nasi Bakar Maknyus #67,Kuliner,Makassar,"Facebook, Shopee",6434,6.72,4356573,43.9
+UMKM-068,Sambal Lumer #68,Fashion,Bogor,"WhatsApp, Gojek, GrabFood",8421,5.18,2751464,22.73
+UMKM-069,Tahu Crispy Jaya #69,Kuliner,Yogyakarta,"Shopee, GrabFood",8113,6.13,3679192,23.5
+UMKM-070,Kue Kering Mawar #70,Kerajinan,Surabaya,"Shopee, Tokopedia",4732,4.06,2817508,35.57
+UMKM-071,Sepatu Kulit Asli #71,Fashion,Bandung,GrabFood,8504,6.0,2515983,42.98
+UMKM-072,Kue Kering Mawar #72,Makanan Ringan,Jakarta,WhatsApp,4130,4.64,2540991,21.84
+UMKM-073,Tas Rajut Handmade #73,Kerajinan,Semarang,"TikTok, Shopee, Gojek",9517,3.98,4306291,19.9
+UMKM-074,Daster Cantik #74,Fashion,Bandung,"Shopee, Tokopedia, Instagram",9279,9.56,2053149,15.53
+UMKM-075,Kue Kering Mawar #75,Kerajinan,Palembang,"WhatsApp, Instagram, Facebook",5353,3.05,2005264,21.62
+UMKM-076,Sepatu Kulit Asli #76,Fashion,Yogyakarta,Instagram,9566,3.63,1559309,40.08
+UMKM-077,Kue Kering Mawar #77,Kuliner,Jakarta,"WhatsApp, Shopee, GrabFood",7716,4.07,930979,18.89
+UMKM-078,Kue Kering Mawar #78,Kuliner,Bandung,"Gojek, Instagram",9953,6.67,949705,13.34
+UMKM-079,Tas Rajut Handmade #79,Kerajinan,Bandung,Facebook,9643,7.88,2393200,47.66
+UMKM-080,Sambal Lumer #80,Makanan Ringan,Semarang,"GrabFood, Tokopedia",9816,6.59,1332431,57.12
+UMKM-081,Tahu Crispy Jaya #81,Kosmetik,Medan,"Facebook, Gojek",4429,2.56,1129689,13.61
+UMKM-082,Sambal Lumer #82,Makanan Ringan,Palembang,"WhatsApp, Instagram",4292,3.59,2871613,43.66
+UMKM-083,Kue Kering Mawar #83,Kuliner,Medan,"Shopee, Gojek",2380,5.9,1749813,54.96
+UMKM-084,Ayam GeprekX #84,Kuliner,Jakarta,WhatsApp,9825,9.29,4183886,11.84
+UMKM-085,Daster Cantik #85,Kosmetik,Makassar,"Gojek, Shopee",1817,6.38,4124119,45.4
+UMKM-086,Tas Rajut Handmade #86,Kerajinan,Jakarta,Shopee,9924,6.28,674025,59.98
+UMKM-087,Daster Cantik #87,Aksesoris,Jakarta,Gojek,9002,6.86,2833346,14.98
+UMKM-088,Tas Rajut Handmade #88,Makanan Ringan,Semarang,Gojek,6200,4.68,3193231,41.86
+UMKM-089,Ayam GeprekX #89,Kerajinan,Makassar,"Gojek, Tokopedia, TikTok",7061,8.32,807837,30.02
+UMKM-090,Nasi Bakar Maknyus #90,Kerajinan,Denpasar,GrabFood,8931,8.42,509655,41.17
+UMKM-091,Sepatu Kulit Asli #91,Makanan Ringan,Makassar,Shopee,8994,4.26,4681663,39.4
+UMKM-092,Kopi Mantap #92,Fashion,Yogyakarta,"Tokopedia, Gojek, Shopee",8441,2.09,2507372,44.04
+UMKM-093,Daster Cantik #93,Aksesoris,Jakarta,"GrabFood, Instagram, Facebook",2358,5.15,1485377,40.62
+UMKM-094,Ayam GeprekX #94,Makanan Ringan,Yogyakarta,"WhatsApp, Shopee, GrabFood",8236,3.19,1713344,26.1
+UMKM-095,Tas Rajut Handmade #95,Aksesoris,Surabaya,WhatsApp,7298,4.06,4759212,19.69
+UMKM-096,Kopi Mantap #96,Kerajinan,Yogyakarta,"Gojek, GrabFood, Facebook",7816,5.85,3395109,23.28
+UMKM-097,Sepatu Kulit Asli #97,Makanan Ringan,Semarang,"Shopee, TikTok",4412,6.15,2459263,52.08
+UMKM-098,Sambal Lumer #98,Kuliner,Denpasar,"Gojek, TikTok, Shopee",6825,9.9,1775951,32.24
+UMKM-099,Kopi Mantap #99,Fashion,Bogor,"TikTok, GrabFood, Instagram",7713,1.9,4332990,5.84
+UMKM-100,Ayam GeprekX #100,Makanan Ringan,Surabaya,Gojek,4842,4.05,3834331,40.74
+UMKM-101,Nasi Bakar Maknyus #101,Kosmetik,Bogor,"TikTok, Gojek",8494,8.85,801143,38.96
+UMKM-102,Tahu Crispy Jaya #102,Kosmetik,Yogyakarta,Facebook,7610,9.81,1343115,29.4
+UMKM-103,Daster Cantik #103,Kuliner,Jakarta,"Instagram, Tokopedia",6373,4.37,1721127,18.43
+UMKM-104,Sambal Lumer #104,Aksesoris,Surabaya,Tokopedia,1793,6.49,3709014,39.08
+UMKM-105,Tahu Crispy Jaya #105,Makanan Ringan,Palembang,Shopee,8055,6.74,4355156,19.04
+UMKM-106,Kopi Mantap #106,Makanan Ringan,Yogyakarta,"Tokopedia, Instagram, Shopee",6161,9.89,3009487,40.14
+UMKM-107,Sambal Lumer #107,Kosmetik,Yogyakarta,"WhatsApp, Facebook",6802,8.68,1394672,18.05
+UMKM-108,Tas Rajut Handmade #108,Kerajinan,Palembang,"WhatsApp, Instagram",6984,3.47,911412,55.08
+UMKM-109,Kue Kering Mawar #109,Kerajinan,Medan,"TikTok, Facebook, Gojek",3615,6.59,1647387,39.55
+UMKM-110,Kopi Mantap #110,Kerajinan,Semarang,TikTok,2653,1.81,2975565,22.97
+UMKM-111,Sambal Lumer #111,Fashion,Medan,TikTok,9197,5.52,2786125,50.68
+UMKM-112,Daster Cantik #112,Makanan Ringan,Yogyakarta,"TikTok, GrabFood, Instagram",8173,9.67,1680755,46.48
+UMKM-113,Tahu Crispy Jaya #113,Kosmetik,Makassar,"TikTok, Instagram, Shopee",728,3.38,1536737,30.01
+UMKM-114,Daster Cantik #114,Aksesoris,Makassar,"TikTok, Instagram, Gojek",4330,5.24,3251516,55.34
+UMKM-115,Tahu Crispy Jaya #115,Kosmetik,Bandung,"Gojek, TikTok, Tokopedia",7189,2.05,880396,57.04
+UMKM-116,Daster Cantik #116,Makanan Ringan,Bandung,Shopee,9307,2.22,4305439,25.41
+UMKM-117,Sepatu Kulit Asli #117,Makanan Ringan,Palembang,"Tokopedia, Shopee, TikTok",2122,8.5,3923524,56.65
+UMKM-118,Daster Cantik #118,Kuliner,Denpasar,Gojek,7785,9.55,3542431,10.46
+UMKM-119,Nasi Bakar Maknyus #119,Aksesoris,Denpasar,GrabFood,5020,2.71,1524749,57.2
+UMKM-120,Kue Kering Mawar #120,Kuliner,Medan,"Instagram, Gojek, Tokopedia",4490,9.9,2221389,8.77
+UMKM-121,Sepatu Kulit Asli #121,Fashion,Palembang,Shopee,5883,7.97,523786,20.25
+UMKM-122,Ayam GeprekX #122,Fashion,Bogor,"Tokopedia, Instagram",922,2.19,3505154,48.45
+UMKM-123,Tahu Crispy Jaya #123,Aksesoris,Denpasar,Tokopedia,4847,1.47,4031273,33.93
+UMKM-124,Batik Nusa #124,Makanan Ringan,Semarang,"Facebook, Shopee",8754,2.99,863772,45.0
+UMKM-125,Sepatu Kulit Asli #125,Kerajinan,Semarang,"Instagram, Gojek, Shopee",7080,4.84,1405649,31.96
+UMKM-126,Kue Kering Mawar #126,Kuliner,Bandung,"Tokopedia, Instagram",2567,3.48,3227853,25.95
+UMKM-127,Tas Rajut Handmade #127,Aksesoris,Yogyakarta,"GrabFood, Instagram",2374,8.68,2303744,28.65
+UMKM-128,Tahu Crispy Jaya #128,Makanan Ringan,Denpasar,"GrabFood, Shopee",2057,3.81,3121637,41.58
+UMKM-129,Nasi Bakar Maknyus #129,Fashion,Semarang,Facebook,1898,1.84,1310041,45.95
+UMKM-130,Nasi Bakar Maknyus #130,Fashion,Bogor,TikTok,2502,4.7,4047851,52.75
+UMKM-131,Kopi Mantap #131,Kerajinan,Palembang,"TikTok, Instagram",9968,5.57,1797970,41.12
+UMKM-132,Tahu Crispy Jaya #132,Kuliner,Denpasar,"TikTok, Instagram, Tokopedia",9906,3.04,4099655,51.48
+UMKM-133,Tas Rajut Handmade #133,Aksesoris,Bogor,WhatsApp,974,2.62,3091951,55.68
+UMKM-134,Nasi Bakar Maknyus #134,Kuliner,Surabaya,GrabFood,1640,2.28,757170,10.05
+UMKM-135,Sepatu Kulit Asli #135,Fashion,Makassar,"Gojek, Tokopedia",3078,4.33,3221120,47.73
+UMKM-136,Tas Rajut Handmade #136,Aksesoris,Bandung,Tokopedia,3079,7.79,917438,42.07
+UMKM-137,Daster Cantik #137,Makanan Ringan,Makassar,"Gojek, Shopee",4975,2.94,4797872,11.26
+UMKM-138,Sambal Lumer #138,Kuliner,Yogyakarta,"Gojek, WhatsApp, TikTok",5553,1.41,3815709,59.14
+UMKM-139,Kopi Mantap #139,Kuliner,Medan,"Shopee, GrabFood",2748,7.88,2928058,23.05
+UMKM-140,Kopi Mantap #140,Makanan Ringan,Makassar,Tokopedia,6729,5.79,2430308,32.51
+UMKM-141,Nasi Bakar Maknyus #141,Kuliner,Makassar,"Instagram, Shopee, Gojek",8032,9.29,3126142,36.67
+UMKM-142,Tas Rajut Handmade #142,Makanan Ringan,Makassar,"Facebook, Shopee",841,9.7,1941776,49.07
+UMKM-143,Tas Rajut Handmade #143,Makanan Ringan,Denpasar,GrabFood,2234,3.19,3859216,33.82
+UMKM-144,Sambal Lumer #144,Kerajinan,Denpasar,TikTok,3254,1.69,1456524,34.18
+UMKM-145,Tahu Crispy Jaya #145,Kerajinan,Denpasar,"Tokopedia, Facebook, Instagram",2899,3.3,1955415,38.13
+UMKM-146,Batik Nusa #146,Fashion,Semarang,"Gojek, TikTok",9748,6.79,3211267,52.53
+UMKM-147,Nasi Bakar Maknyus #147,Fashion,Semarang,Gojek,7745,6.68,2804129,37.53
+UMKM-148,Nasi Bakar Maknyus #148,Aksesoris,Bandung,"Gojek, Shopee",1116,1.51,2908176,9.22
+UMKM-149,Batik Nusa #149,Aksesoris,Palembang,"GrabFood, Shopee, WhatsApp",9581,9.59,844123,29.74
+UMKM-150,Tas Rajut Handmade #150,Kosmetik,Medan,"Gojek, WhatsApp",2971,9.62,4279261,10.69
+UMKM-151,Nasi Bakar Maknyus #151,Kosmetik,Bandung,"Tokopedia, Instagram, Facebook",7672,9.92,4896205,33.75
+UMKM-152,Ayam GeprekX #152,Kerajinan,Denpasar,"GrabFood, Shopee",6043,7.11,939273,48.41
+UMKM-153,Nasi Bakar Maknyus #153,Kuliner,Denpasar,GrabFood,5155,3.27,1761422,23.33
+UMKM-154,Tas Rajut Handmade #154,Kosmetik,Surabaya,"WhatsApp, TikTok",6921,2.16,1210674,22.03
+UMKM-155,Sambal Lumer #155,Kosmetik,Denpasar,Facebook,7437,5.58,652928,24.94
+UMKM-156,Ayam GeprekX #156,Fashion,Denpasar,"Shopee, Facebook",2753,2.39,2981283,51.44
+UMKM-157,Batik Nusa #157,Aksesoris,Bogor,"Instagram, TikTok, Tokopedia",2647,6.38,1793965,13.92
+UMKM-158,Tas Rajut Handmade #158,Fashion,Semarang,GrabFood,6468,7.09,2492547,58.33
+UMKM-159,Tas Rajut Handmade #159,Kerajinan,Semarang,Shopee,5570,9.69,4434388,54.72
+UMKM-160,Tahu Crispy Jaya #160,Kerajinan,Palembang,"Gojek, GrabFood",5116,8.0,4718687,34.01
+UMKM-161,Ayam GeprekX #161,Fashion,Palembang,WhatsApp,1354,6.77,3613952,35.5
+UMKM-162,Batik Nusa #162,Kosmetik,Bogor,WhatsApp,1874,7.87,2788339,29.71
+UMKM-163,Sepatu Kulit Asli #163,Fashion,Makassar,Shopee,7891,8.96,723725,27.82
+UMKM-164,Sambal Lumer #164,Aksesoris,Denpasar,GrabFood,1837,4.37,736454,22.53
+UMKM-165,Batik Nusa #165,Kosmetik,Denpasar,Tokopedia,1127,3.58,4463239,43.28
+UMKM-166,Ayam GeprekX #166,Kosmetik,Semarang,"Instagram, Gojek",811,3.3,1754261,35.18
+UMKM-167,Tas Rajut Handmade #167,Aksesoris,Makassar,WhatsApp,4393,3.71,900551,18.11
+UMKM-168,Tas Rajut Handmade #168,Makanan Ringan,Bandung,Gojek,9282,1.15,4823284,36.63
+UMKM-169,Ayam GeprekX #169,Kerajinan,Makassar,TikTok,4441,6.14,2071302,41.54
+UMKM-170,Batik Nusa #170,Aksesoris,Denpasar,Instagram,6897,8.86,865193,39.96
+UMKM-171,Nasi Bakar Maknyus #171,Kerajinan,Jakarta,"Facebook, Tokopedia",4450,7.6,1369595,47.43
+UMKM-172,Nasi Bakar Maknyus #172,Fashion,Jakarta,"TikTok, GrabFood",3368,8.47,4397539,58.95
+UMKM-173,Kue Kering Mawar #173,Kosmetik,Surabaya,Facebook,7998,1.33,2191067,7.41
+UMKM-174,Tahu Crispy Jaya #174,Kuliner,Denpasar,"GrabFood, Gojek",9397,5.26,807197,46.43
+UMKM-175,Tahu Crispy Jaya #175,Kerajinan,Denpasar,TikTok,4976,2.12,3587168,29.03
+UMKM-176,Sambal Lumer #176,Kosmetik,Semarang,"TikTok, Facebook",8629,7.23,3581529,55.84
+UMKM-177,Sepatu Kulit Asli #177,Kerajinan,Bandung,"GrabFood, Instagram, Shopee",3456,5.91,3194516,10.64
+UMKM-178,Nasi Bakar Maknyus #178,Kosmetik,Yogyakarta,"Gojek, WhatsApp",7481,2.5,4223773,24.34
+UMKM-179,Kopi Mantap #179,Kosmetik,Denpasar,"GrabFood, Tokopedia, TikTok",1439,1.68,3907538,24.98
+UMKM-180,Ayam GeprekX #180,Kuliner,Surabaya,"Gojek, Instagram, Facebook",1601,3.12,3572985,24.92
+UMKM-181,Tas Rajut Handmade #181,Kuliner,Palembang,Gojek,6577,4.35,1144961,36.57
+UMKM-182,Sepatu Kulit Asli #182,Kerajinan,Makassar,"WhatsApp, Facebook",2358,1.23,2060684,32.45
+UMKM-183,Sambal Lumer #183,Aksesoris,Bandung,"WhatsApp, TikTok",7811,2.93,2895592,43.17
+UMKM-184,Kue Kering Mawar #184,Fashion,Bandung,Facebook,7906,2.55,4233863,59.85
+UMKM-185,Nasi Bakar Maknyus #185,Kosmetik,Denpasar,"Facebook, WhatsApp, GrabFood",5257,9.02,1821249,44.15
+UMKM-186,Ayam GeprekX #186,Kerajinan,Bogor,Facebook,3792,8.13,2485887,48.47
+UMKM-187,Kopi Mantap #187,Kerajinan,Bogor,"TikTok, Shopee, WhatsApp",2626,6.51,1223227,8.62
+UMKM-188,Sambal Lumer #188,Kosmetik,Semarang,"GrabFood, Gojek, Shopee",9919,1.66,3159420,40.33
+UMKM-189,Kue Kering Mawar #189,Makanan Ringan,Bogor,"Tokopedia, GrabFood",9532,6.76,2026417,47.23
+UMKM-190,Ayam GeprekX #190,Makanan Ringan,Bogor,Facebook,8988,2.38,1881243,13.91
+UMKM-191,Tahu Crispy Jaya #191,Kerajinan,Bogor,"Facebook, Tokopedia",3716,6.72,2802262,11.88
+UMKM-192,Daster Cantik #192,Aksesoris,Bogor,Tokopedia,3026,2.54,3332158,51.34
+UMKM-193,Tas Rajut Handmade #193,Kuliner,Jakarta,Instagram,9949,3.38,2268388,47.18
+UMKM-194,Sambal Lumer #194,Aksesoris,Jakarta,"WhatsApp, TikTok",5449,5.35,3906551,21.36
+UMKM-195,Batik Nusa #195,Kosmetik,Jakarta,Gojek,7309,5.36,2211469,23.71
+UMKM-196,Ayam GeprekX #196,Kerajinan,Denpasar,"TikTok, Shopee, Facebook",6570,5.63,1390735,22.55
+UMKM-197,Kue Kering Mawar #197,Kuliner,Yogyakarta,"Shopee, Facebook",2086,1.46,3722482,52.53
+UMKM-198,Sambal Lumer #198,Fashion,Surabaya,"TikTok, Facebook",3110,5.48,4817824,30.67
+UMKM-199,Daster Cantik #199,Makanan Ringan,Jakarta,GrabFood,8781,5.12,2519378,16.83
+UMKM-200,Nasi Bakar Maknyus #200,Kuliner,Jakarta,"Gojek, WhatsApp",8210,3.57,568597,51.59
+UMKM-201,Sambal Lumer #201,Fashion,Yogyakarta,"TikTok, GrabFood, Shopee",6495,1.41,929141,36.37
+UMKM-202,Tahu Crispy Jaya #202,Kerajinan,Bogor,"Facebook, Shopee",8761,5.05,2846467,50.39
+UMKM-203,Tas Rajut Handmade #203,Kosmetik,Palembang,Tokopedia,2084,4.55,3344453,35.68
+UMKM-204,Nasi Bakar Maknyus #204,Fashion,Medan,"GrabFood, WhatsApp, Instagram",1242,1.35,3293747,49.22
+UMKM-205,Sepatu Kulit Asli #205,Makanan Ringan,Surabaya,"Tokopedia, Gojek, WhatsApp",5718,2.46,3010159,37.65
+UMKM-206,Sepatu Kulit Asli #206,Aksesoris,Bogor,"WhatsApp, Shopee",772,4.32,1419429,58.89
+UMKM-207,Tas Rajut Handmade #207,Kerajinan,Jakarta,"Gojek, Tokopedia, TikTok",9977,6.2,930798,37.09
+UMKM-208,Ayam GeprekX #208,Aksesoris,Palembang,"Tokopedia, GrabFood",4468,1.28,1421870,15.49
+UMKM-209,Kue Kering Mawar #209,Kerajinan,Makassar,GrabFood,3840,4.69,4456113,53.0
+UMKM-210,Kopi Mantap #210,Kosmetik,Surabaya,"Shopee, WhatsApp, Tokopedia",8337,5.73,3131947,57.62
+UMKM-211,Kue Kering Mawar #211,Aksesoris,Denpasar,"TikTok, Gojek, GrabFood",4831,6.49,2112828,57.65
+UMKM-212,Daster Cantik #212,Aksesoris,Yogyakarta,WhatsApp,5235,7.34,4602055,22.44
+UMKM-213,Nasi Bakar Maknyus #213,Aksesoris,Yogyakarta,"Facebook, WhatsApp",9399,4.42,3809578,50.01
+UMKM-214,Ayam GeprekX #214,Kerajinan,Jakarta,"Facebook, Tokopedia",7747,6.9,4518808,16.77
+UMKM-215,Sepatu Kulit Asli #215,Kerajinan,Bogor,"WhatsApp, Facebook, Instagram",4420,3.18,4954698,17.41
+UMKM-216,Tahu Crispy Jaya #216,Kuliner,Bandung,"TikTok, Gojek",8239,1.9,1653157,5.28
+UMKM-217,Sepatu Kulit Asli #217,Fashion,Makassar,"Gojek, Shopee, TikTok",3767,7.8,2909586,22.66
+UMKM-218,Kopi Mantap #218,Kuliner,Palembang,Instagram,3368,4.76,1974622,56.37
+UMKM-219,Kopi Mantap #219,Makanan Ringan,Semarang,WhatsApp,1113,1.08,1400103,56.07
+UMKM-220,Nasi Bakar Maknyus #220,Kerajinan,Semarang,"Gojek, Facebook, WhatsApp",8168,3.46,1444949,23.19
+UMKM-221,Kue Kering Mawar #221,Kosmetik,Yogyakarta,"Tokopedia, Instagram, TikTok",6023,8.12,2120354,14.65
+UMKM-222,Sambal Lumer #222,Makanan Ringan,Bogor,"Facebook, Shopee",2062,2.66,1679537,31.26
+UMKM-223,Tahu Crispy Jaya #223,Kuliner,Yogyakarta,"Shopee, Gojek",4874,9.59,3032905,37.04
+UMKM-224,Tas Rajut Handmade #224,Kuliner,Yogyakarta,"TikTok, Gojek, Facebook",1517,7.01,4404016,21.87
+UMKM-225,Sambal Lumer #225,Kosmetik,Bogor,"WhatsApp, TikTok, Instagram",5333,4.31,2352617,17.05
+UMKM-226,Ayam GeprekX #226,Makanan Ringan,Surabaya,"TikTok, Shopee",9498,9.22,2332169,46.9
+UMKM-227,Tas Rajut Handmade #227,Kuliner,Bogor,"TikTok, Instagram",9743,2.01,4740332,16.12
+UMKM-228,Sepatu Kulit Asli #228,Fashion,Surabaya,"Gojek, Instagram",3865,7.45,4600586,10.0
+UMKM-229,Sepatu Kulit Asli #229,Makanan Ringan,Jakarta,"Tokopedia, WhatsApp",7306,5.11,984331,35.73
+UMKM-230,Daster Cantik #230,Kosmetik,Jakarta,"WhatsApp, GrabFood",549,7.71,1112616,7.49
+UMKM-231,Nasi Bakar Maknyus #231,Kosmetik,Bandung,"Instagram, Gojek, Shopee",1019,3.58,2009792,47.29
+UMKM-232,Sambal Lumer #232,Kerajinan,Makassar,"GrabFood, Shopee",1814,7.14,1615599,40.94
+UMKM-233,Nasi Bakar Maknyus #233,Kuliner,Surabaya,"GrabFood, WhatsApp, Facebook",4148,8.51,690717,58.82
+UMKM-234,Kue Kering Mawar #234,Kosmetik,Bogor,"GrabFood, Gojek",4262,3.23,3403798,13.53
+UMKM-235,Tahu Crispy Jaya #235,Kosmetik,Bandung,GrabFood,756,3.17,1064477,10.55
+UMKM-236,Kopi Mantap #236,Makanan Ringan,Palembang,"Instagram, Facebook, TikTok",1224,4.62,2465780,34.69
+UMKM-237,Kopi Mantap #237,Fashion,Bogor,"Shopee, GrabFood",9938,3.87,3189933,18.03
+UMKM-238,Ayam GeprekX #238,Kosmetik,Bogor,GrabFood,5423,3.48,1969123,39.43
+UMKM-239,Sambal Lumer #239,Aksesoris,Semarang,TikTok,6744,8.07,3173738,43.3
+UMKM-240,Sambal Lumer #240,Fashion,Yogyakarta,"Tokopedia, GrabFood",9313,5.26,2390327,21.54
+UMKM-241,Ayam GeprekX #241,Makanan Ringan,Jakarta,"GrabFood, Shopee, WhatsApp",9183,2.21,2537244,19.02
+UMKM-242,Nasi Bakar Maknyus #242,Kosmetik,Bandung,"TikTok, Instagram",9275,7.52,2097875,7.83
+UMKM-243,Sambal Lumer #243,Kosmetik,Palembang,"Instagram, GrabFood, Gojek",3582,8.24,2320466,31.37
+UMKM-244,Nasi Bakar Maknyus #244,Kerajinan,Jakarta,Shopee,2422,7.72,4517479,55.29
+UMKM-245,Tas Rajut Handmade #245,Kosmetik,Medan,"Shopee, WhatsApp",5769,7.98,3693222,30.64
+UMKM-246,Nasi Bakar Maknyus #246,Kerajinan,Yogyakarta,"Gojek, Shopee",2115,8.23,4438371,46.89
+UMKM-247,Nasi Bakar Maknyus #247,Fashion,Denpasar,"GrabFood, Instagram",9716,8.78,1724088,5.89
+UMKM-248,Sepatu Kulit Asli #248,Aksesoris,Palembang,"GrabFood, Tokopedia, Facebook",3714,3.97,3686326,36.34
+UMKM-249,Tahu Crispy Jaya #249,Makanan Ringan,Bogor,"TikTok, Tokopedia, Shopee",8537,5.15,3454267,14.31
+UMKM-250,Sepatu Kulit Asli #250,Makanan Ringan,Surabaya,"Instagram, WhatsApp, Gojek",1717,9.51,906968,47.04
+UMKM-251,Sambal Lumer #251,Fashion,Medan,Tokopedia,649,2.97,4325286,25.53
+UMKM-252,Tas Rajut Handmade #252,Kosmetik,Palembang,"Gojek, Instagram",608,5.79,3950557,5.65
+UMKM-253,Sepatu Kulit Asli #253,Kosmetik,Yogyakarta,"WhatsApp, Instagram, Gojek",7554,8.26,2003799,10.89
+UMKM-254,Batik Nusa #254,Aksesoris,Surabaya,Shopee,9125,3.27,3473267,19.7
+UMKM-255,Sambal Lumer #255,Kuliner,Denpasar,"Gojek, WhatsApp",4484,9.91,2394627,21.5
+UMKM-256,Batik Nusa #256,Kosmetik,Jakarta,GrabFood,6713,4.39,4493020,8.09
+UMKM-257,Kopi Mantap #257,Kosmetik,Surabaya,Gojek,7609,6.8,3278899,36.12
+UMKM-258,Batik Nusa #258,Aksesoris,Jakarta,Shopee,9786,5.28,890590,55.83
+UMKM-259,Daster Cantik #259,Aksesoris,Palembang,"Instagram, Facebook, Tokopedia",756,9.65,1709566,46.37
+UMKM-260,Sambal Lumer #260,Kuliner,Yogyakarta,Shopee,9784,8.51,3764482,42.24
+UMKM-261,Sepatu Kulit Asli #261,Kerajinan,Makassar,"Tokopedia, GrabFood, TikTok",1784,5.51,3401279,7.95
+UMKM-262,Sambal Lumer #262,Fashion,Bandung,"GrabFood, Gojek",5847,1.27,2792833,48.1
+UMKM-263,Kue Kering Mawar #263,Makanan Ringan,Medan,"GrabFood, Shopee",3543,7.12,3688281,9.71
+UMKM-264,Tas Rajut Handmade #264,Kerajinan,Medan,"Facebook, Instagram, Tokopedia",3026,4.42,1794168,45.68
+UMKM-265,Nasi Bakar Maknyus #265,Kerajinan,Bandung,Instagram,5550,5.0,2762964,10.62
+UMKM-266,Batik Nusa #266,Fashion,Makassar,"GrabFood, Instagram",930,1.81,1280679,37.83
+UMKM-267,Nasi Bakar Maknyus #267,Makanan Ringan,Jakarta,"GrabFood, Shopee",1887,7.52,2536271,36.46
+UMKM-268,Ayam GeprekX #268,Kosmetik,Makassar,Tokopedia,4905,3.71,4636623,13.03
+UMKM-269,Ayam GeprekX #269,Makanan Ringan,Yogyakarta,"WhatsApp, Shopee",1760,4.25,2568547,44.65
+UMKM-270,Kue Kering Mawar #270,Aksesoris,Palembang,Gojek,2252,2.22,556768,57.19
+UMKM-271,Nasi Bakar Maknyus #271,Aksesoris,Makassar,"Gojek, Tokopedia",7555,8.34,1641894,21.52
+UMKM-272,Tas Rajut Handmade #272,Kosmetik,Medan,"TikTok, Facebook",7024,9.72,2944844,45.42
+UMKM-273,Kue Kering Mawar #273,Aksesoris,Medan,"GrabFood, Tokopedia",6937,4.29,2176044,37.57
+UMKM-274,Sepatu Kulit Asli #274,Fashion,Bogor,Gojek,3934,4.95,2943863,50.72
+UMKM-275,Batik Nusa #275,Makanan Ringan,Semarang,WhatsApp,4465,3.27,1793047,44.34
+UMKM-276,Sambal Lumer #276,Kuliner,Semarang,"Gojek, WhatsApp, Shopee",9255,5.56,4008960,34.9
+UMKM-277,Nasi Bakar Maknyus #277,Kosmetik,Bogor,"Facebook, Instagram, Gojek",6316,2.5,871587,35.98
+UMKM-278,Sambal Lumer #278,Kerajinan,Makassar,Instagram,2115,3.33,4783862,46.08
+UMKM-279,Sepatu Kulit Asli #279,Aksesoris,Palembang,Gojek,6629,4.52,4698211,13.29
+UMKM-280,Kopi Mantap #280,Makanan Ringan,Bandung,"GrabFood, Instagram",2401,8.48,1688457,24.16
+UMKM-281,Nasi Bakar Maknyus #281,Makanan Ringan,Medan,"Gojek, Tokopedia, Shopee",2099,4.94,4295402,22.54
+UMKM-282,Daster Cantik #282,Kuliner,Bandung,TikTok,2291,7.09,1878702,56.15
+UMKM-283,Tahu Crispy Jaya #283,Aksesoris,Surabaya,"Tokopedia, Gojek, WhatsApp",7485,9.63,2444945,48.88
+UMKM-284,Ayam GeprekX #284,Fashion,Makassar,"Instagram, TikTok",3732,5.05,4103350,26.39
+UMKM-285,Tahu Crispy Jaya #285,Fashion,Yogyakarta,"Facebook, WhatsApp, Instagram",9296,2.68,3234559,15.84
+UMKM-286,Batik Nusa #286,Kerajinan,Semarang,"TikTok, WhatsApp, Shopee",6931,6.28,3418603,24.36
+UMKM-287,Kue Kering Mawar #287,Aksesoris,Surabaya,"WhatsApp, Gojek, GrabFood",1888,7.05,3127192,11.48
+UMKM-288,Daster Cantik #288,Kuliner,Surabaya,"Tokopedia, WhatsApp",6864,4.76,1656514,36.61
+UMKM-289,Sambal Lumer #289,Fashion,Semarang,"Tokopedia, WhatsApp, Facebook",8522,3.6,2069496,22.3
+UMKM-290,Kue Kering Mawar #290,Aksesoris,Jakarta,"Instagram, Shopee",2736,2.76,3720757,58.01
+UMKM-291,Sepatu Kulit Asli #291,Kosmetik,Semarang,"Gojek, Shopee",7772,5.4,1193491,36.1
+UMKM-292,Tahu Crispy Jaya #292,Kerajinan,Jakarta,"Shopee, WhatsApp",5229,2.51,4336289,36.11
+UMKM-293,Kue Kering Mawar #293,Aksesoris,Bogor,Facebook,4889,7.98,3577459,34.81
+UMKM-294,Kopi Mantap #294,Kosmetik,Semarang,"Shopee, Gojek, Instagram",4555,3.68,770368,29.74
+UMKM-295,Nasi Bakar Maknyus #295,Kuliner,Semarang,Shopee,3938,8.3,3441304,52.36
+UMKM-296,Tas Rajut Handmade #296,Kosmetik,Makassar,Tokopedia,3885,8.32,997929,36.35
+UMKM-297,Sepatu Kulit Asli #297,Kerajinan,Palembang,"Tokopedia, Gojek, TikTok",5294,3.6,2742636,57.38
+UMKM-298,Sepatu Kulit Asli #298,Kosmetik,Bandung,GrabFood,1471,9.93,1564415,43.58
+UMKM-299,Ayam GeprekX #299,Fashion,Surabaya,"TikTok, GrabFood, Facebook",6934,5.41,2754162,39.53
+UMKM-300,Sambal Lumer #300,Makanan Ringan,Bandung,"Facebook, Shopee, WhatsApp",5058,7.25,3595993,30.01
